@@ -6,5 +6,5 @@ class Config:
 	MAIL_SERVER = 'smtp.gmail.com'
 	MAIL_PORT = 465
 	MAIL_USE_SSL = True
-	MAIL_USERNAME = 'flaskblog.testingpage@gmail.com'
+	MAIL_USERNAME = 'flaskblog.testing001page@gmail.com'
 	MAIL_PASSWORD = 'roy#1999'
