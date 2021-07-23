@@ -47,7 +47,6 @@ lazr.restfulclient==0.14.2
 lazr.uri==1.0.3
 lxml==4.5.2
 MarkupSafe==1.1.0
-matplotlib==3.3.2
 more-itertools==4.2.0
 netifaces==0.10.4
 oauthlib==3.1.0
